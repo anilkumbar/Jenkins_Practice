@@ -13,8 +13,13 @@ public class SampleTest {
     }
 
     @Test
-    public void sampleTest() {
-        System.out.println("Hello World");
+    public void sampleTest1() {
+        System.out.println("Hello World 1");
+    }
+
+    @Test
+    public void sampleTest2() {
+        System.out.println("Hello World 2");
     }
 
     @AfterMethod
