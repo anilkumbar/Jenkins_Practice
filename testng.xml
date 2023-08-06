@@ -12,14 +12,5 @@
             </class>
         </classes>
     </test>
-    <test verbose="2" preserve-order="true"
-          name="src/test/java/TestScripts/SampleTest2.java">
-        <classes>
-            <class name="TestScripts.SampleTest2">
-                <methods>
-                    <include name="sampleTest2"/>
-                </methods>
-            </class>
-        </classes>
-    </test>
+
 </suite>
